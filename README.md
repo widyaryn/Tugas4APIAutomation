@@ -5,10 +5,10 @@ Nama: Widya Ariyani - Kelas Karyawan Quality Assurance Automation Batch 41
 
 Installation:
 
-- npm i -g mocha
-- npm init
-- npm i supertest
-- npm i chai
+- npm install
+- npm install supertest
+- npm install mocha
+- npm install chai
 
 How To Run:
 
