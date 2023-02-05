@@ -1,0 +1,25 @@
+{
+  "name": "tugas4apiautomation",
+  "version": "1.0.0",
+  "description": "Tugas 4 API Automation Mocha Chai Sanber",
+  "main": "index.js",
+  "scripts": {
+    "start": "SET NODE_ENV=dev && node server.js",
+    "test": "mocha --timeout 10000"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/widyaryn/Tugas4APIAutomation.git"
+  },
+  "author": "Widya Ariyani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/widyaryn/Tugas4APIAutomation/issues"
+  },
+  "homepage": "https://github.com/widyaryn/Tugas4APIAutomation#readme",
+  "dependencies": {
+    "chai": "^4.3.7",
+    "mocha": "^10.2.0",
+    "supertest": "^6.3.3"
+  }
+}
